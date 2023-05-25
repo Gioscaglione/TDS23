@@ -33,7 +33,11 @@ select distinct name from Production.Product
 
 select distinct title from person.Person
 
+-- QUANTOS PRODUTOS TEM NO BD ACIMA DE 1500 (PREÇO)
 
+-- QUANTAS PESSOAS TEM O SOBRENOME QUE COMEÇA COM A LETRA P
+
+-- EM QUANTAS CIDADES UNICAS ESTAO PESSOAS/CLIENTES
 
 /*
 AND - E
